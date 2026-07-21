@@ -260,5 +260,5 @@ The modular two-step lexer implementation successfully separates attached lexeme
 ### Authorship
 
 - **Implementation & Design:** Sadia Sultana
-- **Repository:** FLC Design Lab 2026
+- **Repository:** cse_4130_FormalLanguages-CompilersLab
 - **Language/Standard:** C++17 (GCC)
